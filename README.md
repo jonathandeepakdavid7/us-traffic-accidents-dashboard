@@ -49,4 +49,4 @@ The data ends in March 2023, so 2023 is incomplete. The map displays a sample of
 
 ## Live Dashboard
 
-Public Streamlit URL: To be added after deployment.
+Public Streamlit URL: https://us-traffic-accidents-dashboard-git82xfycm245yrtcypz9g.streamlit.app/
